@@ -1,8 +1,8 @@
 #include<ESP8266WiFi.h>
 
 
-const char* ssid = "TeslaKV";
-const char* password = "12345678";
+const char* ssid = "nomeWifi";
+const char* password = "senha";
 int controle = 0;
 int ligado =0;
 const char* host = "192.168.43.8";
